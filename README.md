@@ -84,7 +84,7 @@ To establish data integrity for reporting, raw data underwent standardized extra
 | **Discharge Velocity** | Long LoS in Emergency and Urgent units (15.5+ days) ties up bed capacity | Standardize multidisciplinary discharge rounds starting at day 10 of admission | 1.5-day reduction in average inpatient Length of Stay |
 
 ---
-Files Uploaded : 
+Files Uploaded link : https://github.com/karthikmisra/US-Healthcare-Analysis-Case-Study_1/blob/main/US%20Healthcare%20Case%20Study_1.xlsx 
 
 ## 📁 Repository Structure
 ```text
